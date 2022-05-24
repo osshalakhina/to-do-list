@@ -1,10 +1,10 @@
-# Project: to_do_list
+# Project: to-do-list
 
 ### About project:
 
 This project was done according to the lectures on udemy ["Modern React from zero to pro"](https://www.udemy.com/course/react-np/). 
 
-"to_do_list" is an app on React where we can create new tasks and delete which tasks was done.
+"to-do-list" is an app on React where we can create new tasks and delete which tasks was done.
 
 ### Tehnology: 
 
