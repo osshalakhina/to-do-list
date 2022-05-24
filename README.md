@@ -2,7 +2,7 @@
 
 ### About project:
 
-This project was done according to the lectures on udemy ["Modern React from zero to pro"](https://www.udemy.com/course/react-np/). 
+This project was done according to the lectures (62-69) on udemy ["Modern React from zero to pro"](https://www.udemy.com/course/react-np/). 
 
 "to-do-list" is an app on React where we can create new tasks and delete which tasks was done.
 
